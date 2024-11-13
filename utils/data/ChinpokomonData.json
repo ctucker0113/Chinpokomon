@@ -1,0 +1,36 @@
+{
+  "-NjjUSLjJ0h_p8MSjsHM": {
+      "firebaseKey": "-NjjUSLjJ0h_p8MSjsHM",
+      "name": "Furrycat",
+      "type": "TBD",
+      "image": "https://static.wikia.nocookie.net/southpark/images/5/56/FurrycatChinpokomon.png/revision/latest?cb=20160720194053"
+
+  },
+  "-NjjUSLlLwGgS9agx-zs": {
+      "firebaseKey": "-NjjUSLlLwGgS9agx-zs",
+      "name": "Donkeytron",
+      "type": "TBD",
+      "image": "https://static.wikia.nocookie.net/southpark/images/f/f2/DonkeytronChinpokomon.png/revision/latest?cb=20160720194052"
+  },
+
+  "-NjjUSLmkVA11p9xEyYp": {
+      "firebaseKey":  "-NjjUSLmkVA11p9xEyYp",
+      "name": "Lambtron",
+      "type": "TBD",
+      "image": "https://static.wikia.nocookie.net/southpark/images/6/66/Ic_unlock_cpm_lambtron.png/revision/latest?cb=20181016023252"
+  },
+
+  "-NjjUSLnaeURdYZZbywA": {
+      "firebaseKey": "-NjjUSLnaeURdYZZbywA",
+      "name": "Pengin",
+      "type": "TBD",
+      "image":"https://static.wikia.nocookie.net/southpark/images/2/26/Pengin.png/revision/latest?cb=20181016024443"
+  },
+
+  "-NjjUSLpWAOFdVsySLYb": {
+      "firebaseKey":  "-NjjUSLpWAOFdVsySLYb",
+      "name": "Shoe",
+      "type": "TBD",
+      "image": "https://static.wikia.nocookie.net/southpark/images/7/73/Ic_unlock_cpm_shoe.png/revision/latest?cb=20181016023616"
+  }
+}
