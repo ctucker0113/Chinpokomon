@@ -1,0 +1,15 @@
+{
+  "-Mljx74jQnxmUA4lBcOj": {
+      "firebaseKey": "-Mljx74jQnxmUA4lBcOj",
+      "name": "Tackle",
+      "type": "Normal",
+      "damage": 20
+
+  },
+  "-931WslUVVKSdtsy8Yxi": {
+      "firebaseKey": "-931WslUVVKSdtsy8Yxi",
+      "name": "Bite",
+      "type": "Normal",
+      "damage": 20
+  }
+}
