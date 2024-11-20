@@ -1,9 +1,12 @@
 import { Button } from 'react-bootstrap';
+import { useRouter } from 'next/router';
 import { signOut } from '../utils/auth';
 import { useAuth } from '../utils/context/authContext';
 
 function Home() {
   const { user } = useAuth();
+
+  const router = useRouter();
 
   // Event handlers for all of the buttons the user can click on this page, which are fed into the onClick functions inside the return at the bottom of the file.
   const handleBattle = () => {
@@ -21,6 +24,7 @@ function Home() {
 
   const handleViewChinpokodex = () => {
     console.log('View Chinpokodex button clicked!');
+    router.push('/chinpokodex');
     // Add functionality to view Chinpokodex here
   };
 
