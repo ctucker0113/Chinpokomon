@@ -1,36 +1,191 @@
 {
   "-NjjUSLjJ0h_p8MSjsHM": {
       "firebaseKey": "-NjjUSLjJ0h_p8MSjsHM",
-      "name": "Furrycat",
+      "name": "Accountafish",
       "type": "TBD",
-      "image": "https://static.wikia.nocookie.net/southpark/images/5/56/FurrycatChinpokomon.png/revision/latest?cb=20160720194053"
+      "image": "/images/chinpokomon/Accountafish.webp"
 
   },
   "-NjjUSLlLwGgS9agx-zs": {
       "firebaseKey": "-NjjUSLlLwGgS9agx-zs",
-      "name": "Donkeytron",
+      "name": "Beetlebot",
       "type": "TBD",
-      "image": "https://static.wikia.nocookie.net/southpark/images/f/f2/DonkeytronChinpokomon.png/revision/latest?cb=20160720194052"
+      "image": "/images/chinpokomon/Beetlebot.webp"
   },
 
   "-NjjUSLmkVA11p9xEyYp": {
       "firebaseKey":  "-NjjUSLmkVA11p9xEyYp",
-      "name": "Lambtron",
+      "name": "Biebersaurus",
       "type": "TBD",
-      "image": "https://static.wikia.nocookie.net/southpark/images/6/66/Ic_unlock_cpm_lambtron.png/revision/latest?cb=20181016023252"
+      "image": "images/chinpokomon/Biebersaurus.webp"
   },
 
   "-NjjUSLnaeURdYZZbywA": {
       "firebaseKey": "-NjjUSLnaeURdYZZbywA",
-      "name": "Pengin",
+      "name": "Brocorri",
       "type": "TBD",
-      "image":"https://static.wikia.nocookie.net/southpark/images/2/26/Pengin.png/revision/latest?cb=20181016024443"
+      "image":"images/chinpokomon/Brocorri.webp"
   },
 
   "-NjjUSLpWAOFdVsySLYb": {
       "firebaseKey":  "-NjjUSLpWAOFdVsySLYb",
-      "name": "Shoe",
+      "name": "Chu Chu Nezumi",
       "type": "TBD",
-      "image": "https://static.wikia.nocookie.net/southpark/images/7/73/Ic_unlock_cpm_shoe.png/revision/latest?cb=20181016023616"
+      "image": "images/chinpokomon/ChuchuNezumi.webp"
+  },
+
+  "01JE6YQ78M4D262V6KW1DJ61SD":{
+    "firebaseKey": "01JE6YQ78M4D262V6KW1DJ61SD",
+    "name": "Cosmonewt",
+    "type": "TBD",
+    "image": "images/chinpokomon/Cosmonewt.webP"
+  },
+
+  "01JE6YQ78N71BSY58TDCKPM5M8":{
+    "firebaseKey": "01JE6YQ78N71BSY58TDCKPM5M8",
+    "name": "Donkeytron",
+    "type": "TBD",
+    "image": "images/chinpokomon/Donkeytron.webp"
+  },
+
+  "01JE6YQ78QM0VEEE633EY4F8XQ" : {
+    "firebaseKey": "01JE6YQ78QM0VEEE633EY4F8XQ",
+    "name": "Feligor",
+    "type": "TBD",
+    "image": "images/chinpokomon/Feligor.webp"
+  },
+
+  "01JE6YQ78QK572SFAS7SWKHXRY" : {
+    "firebaseKey": "01JE6YQ78QK572SFAS7SWKHXRY",
+    "name": "Ferasnarf",
+    "type": "TBD",
+    "image": "images/chinpokomon/Ferasnarf.webp"
+  },
+
+  "01JE6YQ78SGH59PRJHWVY9HYT2" : {
+    "firebaseKey": "01JE6YQ78SGH59PRJHWVY9HYT2",
+    "name": "Fetuswami",
+    "type": "TBD",
+    "image": "images/chinpokomon/Fetuswami.webp"
+  },
+
+  "01JE6YQ78V322WQDGCDRPY50N1": {
+    "firebaseKey" : "01JE6YQ78V322WQDGCDRPY50N1",
+    "name": "Flowerpotamus",
+    "type": "TBD",
+    "image": "images/chinpokomon/Flowerpotamus.webp"
+  },
+
+  "01JE6YQ78VV9WX4YEWZNSA0A4J" : {
+    "firebaseKey": "01JE6YQ78VV9WX4YEWZNSA0A4J",
+    "name": "Furrycat",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Furrycat.webp"
+  },
+
+  "01JE6YQ78WDM3E2Q3WTJNBY79Z" : {
+    "firebaseKey" : "01JE6YQ78WDM3E2Q3WTJNBY79Z",
+    "name": "Gerbitoad",
+    "type": "TBD",
+    "image" : "images/chinpokomon/Gerbitoad.webp"
+  },
+
+  "01JE6YQ78XKRKR7NFDS7WX03GQ" : {
+    "firebaseKey" : "01JE6YQ78XKRKR7NFDS7WX03GQ",
+    "name": "Gunrilla",
+    "type": "TBD",
+    "image" : "images/chinpokomon/Gunrilla.webp"
+  },
+
+  "01JE6YQ78YPWFTE2C5D621V251" : {
+    "firebaseKey" : "01JE6YQ78YPWFTE2C5D621V251",
+    "name": "Herbil",
+    "type" : "TBD",
+    "image": "images/chinpokomon/Herbil.webp"
+  },
+
+  "01JE6YQ78ZS0H4WEBC7M2KBCGA" : {
+    "firebaseKey": "01JE6YQ78ZS0H4WEBC7M2KBCGA",
+    "name": "Lambtron",
+    "type": "TBD",
+    "image": "images/chinpokomon/Lambtron.webp"
+  },
+
+  "01JE6YQ790CD1C44G5J0BZR003" : {
+    "firebaseKey": "01JE6YQ790CD1C44G5J0BZR003",
+    "name" : "Monkay",
+    "type": "TBD",
+    "image": "images/chinpokomon/Monkay.webp"
+  },
+
+  "01JE6YQ7905XGPF0S70PXXZR5V" : {
+    "firebaseKey" : "01JE6YQ7905XGPF0S70PXXZR5V",
+    "name": "Pengin",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Pengin.webp"
+  },
+
+  "01JE6YQ791NNFC3K5R05EEWRV4" : {
+    "firebaseKey" : "01JE6YQ791NNFC3K5R05EEWRV4",
+    "name" : "Pterdaken",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Pterdaken.webp"
+  },
+
+  "01JE6YQ792KP724VCEXD7N9ATY" : {
+    "firebaseKey" : "01JE6YQ792KP724VCEXD7N9ATY",
+    "name": "Rabbitech",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Rabbitech.webp"
+  },
+
+  "01JEENB0WMC4YTDX5845GPYZ81" : {
+    "firebaseKey" : "01JEENB0WMC4YTDX5845GPYZ81",
+    "name" : "Roidrat",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Roidrat.webp"
+  },
+
+  "01JEENB0WP4T12KTSS842FXW98" : {
+    "firebaseKey" : "01JEENB0WP4T12KTSS842FXW98",
+    "name" : "Roostor",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Roostor.webp"
+  },
+
+  "01JEENB0WQDA0Q4XY8SCNZA8HB0" : {
+    "firebaseKey" : "01JEENB0WQDA0Q4XY8SCNZA8HB",
+    "name" : "Shoe",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Shoe.webp"
+  },
+
+  "01JEENB0WS6PKQDR2VK53VKDGK" : {
+    "firebaseKey" : "01JEENB0WS6PKQDR2VK53VKDGK",
+    "name" : "Snekat",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Snakat.webp"
+  },
+
+  "01JEENB0WSXMC9E120QXN77TX0" : {
+    "firebaseKey" : "01JEENB0WSXMC9E120QXN77TX0",
+    "name" : "Terribovine",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Terribovine.webp"
+  },
+
+  "01JEENB0WT7VEREM40XZ00EZFD" : {
+    "firebaseKey" : "01JEENB0WT7VEREM40XZ00EZFD",
+    "name" : "Vamporko",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Vamporko.webp"
+  },
+
+  "01JEENB0WT61NBJ6C3WX4Z2NJ3" : {
+    "firebaseKey" : "01JEENB0WT61NBJ6C3WX4Z2NJ3",
+    "name" : "Velocirapstar",
+    "type" : "TBD",
+    "image" : "images/chinpokomon/Velocirapstar.webp"
   }
+
 }

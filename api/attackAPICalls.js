@@ -19,7 +19,7 @@ const getAllAttacks = () => new Promise((resolve, reject) => {
     })
     .catch(reject);
 });
-
+ 
 const getSingleAttack = (firebaseKey) => new Promise((resolve, reject) => {
   fetch(`${endpoint}/Attacks/${firebaseKey}.json`, {
     method: 'GET',
